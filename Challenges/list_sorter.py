@@ -1,3 +1,6 @@
+# Simple program that received five input numbers from the user
+# and sort then in crescent order in a list
+
 def list_sorter():
   list = []
   for i in range(1, 6):
