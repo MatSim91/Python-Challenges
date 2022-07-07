@@ -1,0 +1,1 @@
+This repo is just a dump of some cool Python challenges I solved and to keep track of the modifications and newer versions of the challenges with git:)
